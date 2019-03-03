@@ -29,12 +29,6 @@
             "Omnipay\\PayTR\\": "src/"
         }
     },
-    "require": {
-        "omnipay/common": "~3.0"
-    },
-    "require-dev": {
-        "omnipay/tests": "~3.0"
-    },
     "extra": {
         "branch-alias": {
             "dev-master": "2.0.x-dev"
